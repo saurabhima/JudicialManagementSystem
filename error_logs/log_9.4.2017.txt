@@ -1,0 +1,12 @@
+User: saurabhima@gmail.com - April 9, 2017, 8:31 pm
+Attempted to Access account Type:Registrar 
+Webpage:lawyer_view_bill.php
+-------------------------
+User: saurabhima@gmail.com - April 9, 2017, 8:57 pm
+Attempted to Access account Type:Registrar 
+Webpage:billing_view_bill.php
+-------------------------
+User: saurabhima@gmail.com - April 9, 2017, 8:58 pm
+Attempted to Access account Type:Registrar 
+Webpage:registrar_page.php
+-------------------------

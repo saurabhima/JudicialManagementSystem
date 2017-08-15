@@ -1,0 +1,4 @@
+User: lawyer@jis.com - May 30, 2017, 1:03 am
+Attempted to Access account Type:Registrar 
+Webpage:registrar_page.php
+-------------------------

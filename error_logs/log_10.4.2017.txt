@@ -1,0 +1,12 @@
+User: judge@jis.com - April 10, 2017, 1:24 am
+Attempted to Access account Type:Registrar 
+Webpage:registrar_page.php
+-------------------------
+User: lawyer@jis.com - April 10, 2017, 1:25 am
+Attempted to Access account Type:Registrar 
+Webpage:registrar_page.php
+-------------------------
+User: billing@jis.com - April 10, 2017, 1:27 am
+Attempted to Access account Type:Registrar 
+Webpage:registrar_page.php
+-------------------------

@@ -1,0 +1,16 @@
+User: saurabhima@gmail.com - April 7, 2017, 2:01 pm
+Attempted to Access account Type:Registrar 
+Webpage:insert_registrar_comments.php
+-------------------------
+User: saurabhima@gmail.com - April 7, 2017, 2:02 pm
+Attempted to Access account Type:Registrar 
+Webpage:insert_registrar_comments.php
+-------------------------
+User: saurabhima@gmail.com - April 7, 2017, 5:27 pm
+Attempted to Access account Type:Registrar 
+Webpage:registrar_page.php
+-------------------------
+User: saurabhima@gmail.com - April 7, 2017, 5:27 pm
+Attempted to Access account Type:Registrar 
+Webpage:case_registry.php
+-------------------------
